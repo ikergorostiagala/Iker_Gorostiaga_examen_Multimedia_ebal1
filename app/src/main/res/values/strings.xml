@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Iker_Gorostiaga_ex1Ev</string>
+    <string name="p2_titulo_puppy">Puppy</string>
+    <string name="p2_titulo_guggenheim">Guggenheim</string>
+    <string name="p2_titulo_ayuntamiento">Ayuntamiento</string>
+    <string name="p2_titulo_arxtanda">Arxtanda</string>
+    <string name="p2_puntuacion_puppy">Puntuacion: 1</string>
+    <string name="p2_puntuacion_bilbao">Puntuacion: 2</string>
+    <string name="p2_puntuacion_ayuntamiento">Puntuacion: 3</string>
+    <string name="p2_puntuacion_artxanda">Puntuacion: 4</string>
+    <string name="p3_titulo">TITULO</string>
+    <string name="p3_puntuacion">Puntuacion: 0</string>
+    <string name="p3_descripcion">DESCRIPCION</string>
+    <string name="p3_btn_volver">Volver</string>
+    <string name="p3_btn_puntuar_y_volver">Puntuar y Volver</string>
+    <string name="p3_descripcion_puppy">Puppy es una estatua muy pero que muy bonita de un perro echa con flores rojas moradas y azules, a la gente le encanta la estatua</string>
+    <string name="p3_descripcion_guggenheim">Guggenheim es un museo muy ampli odonde se guardan las obras de arte mas bonitas de todo bilbao, la entrada suele costar dinero</string>
+    <string name="p3_descripcion_ayuntamiento">El ayuntamiento de Bilbao es una de las estructuras mas bonitas de toda la ciudad, en este edificio se inclulle la comisaria</string>
+    <string name="p3_descripcion_artxanda">Artxanda es un lugar magico, con unas vistas impresionantes, podras subir en funicular pagando con barik</string>
+    <string name="p3_descripcion_error">DESCRIPCION NO AVALIBLE</string>
+</resources>
