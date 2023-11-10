@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class Pantalla2 extends AppCompatActivity {
+public class P2_Principal extends AppCompatActivity {
 
     //variables
 
@@ -76,7 +76,7 @@ public class Pantalla2 extends AppCompatActivity {
                         Bitmap bitmap = ((BitmapDrawable) drawable).getBitmap();
 
                         // Crea un Intent para iniciar la segunda actividad
-                        Intent intent = new Intent(Pantalla2.this, Pantalla3.class);
+                        Intent intent = new Intent(P2_Principal.this, P3_Lugar_Elegido.class);
 
                         // Pasa el bitmap a la segunda actividad
                         //intent.putExtra("bitmap",bitmap);
@@ -106,7 +106,7 @@ public class Pantalla2 extends AppCompatActivity {
                         Bitmap bitmap = ((BitmapDrawable) drawable).getBitmap();
 
                         // Crea un Intent para iniciar la segunda actividad
-                        Intent intent = new Intent(Pantalla2.this, Pantalla3.class);
+                        Intent intent = new Intent(P2_Principal.this, P3_Lugar_Elegido.class);
 
                         // Pasa el bitmap a la segunda actividad
                         //intent.putExtra("bitmap",bitmap);
@@ -137,7 +137,7 @@ public class Pantalla2 extends AppCompatActivity {
                         Bitmap bitmap = ((BitmapDrawable) drawable).getBitmap();
 
                         // Crea un Intent para iniciar la segunda actividad
-                        Intent intent = new Intent(Pantalla2.this, Pantalla3.class);
+                        Intent intent = new Intent(P2_Principal.this, P3_Lugar_Elegido.class);
 
                         // Pasa el bitmap a la segunda actividad
                         //intent.putExtra("bitmap",bitmap);
@@ -168,7 +168,7 @@ public class Pantalla2 extends AppCompatActivity {
                         Bitmap bitmap = ((BitmapDrawable) drawable).getBitmap();
 
                         // Crea un Intent para iniciar la segunda actividad
-                        Intent intent = new Intent(Pantalla2.this, Pantalla3.class);
+                        Intent intent = new Intent(P2_Principal.this, P3_Lugar_Elegido.class);
 
                         // Pasa el bitmap a la segunda actividad
                         //intent.putExtra("bitmap",bitmap);

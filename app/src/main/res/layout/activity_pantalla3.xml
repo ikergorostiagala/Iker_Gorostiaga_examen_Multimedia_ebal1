@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Pantalla3">
+    tools:context=".P3_Lugar_Elegido">
 
     <ImageView
         android:id="@+id/imgVw_img_seleccionada"

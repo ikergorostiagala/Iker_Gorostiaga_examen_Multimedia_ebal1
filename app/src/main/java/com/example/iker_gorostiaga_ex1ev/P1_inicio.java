@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-public class MainActivity extends AppCompatActivity {
+public class P1_inicio extends AppCompatActivity {
 
 //variables
     ImageView logo;
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     //definir a que pantalla pasa al pulsar el logo
-                    Intent intent=new Intent(MainActivity.this,Pantalla2.class);
+                    Intent intent=new Intent(P1_inicio.this, P2_Principal.class);
                     startActivity(intent); //pasamos a la segunda pantalla
                 }
             });

@@ -13,13 +13,13 @@
         android:theme="@style/Theme.Iker_Gorostiaga_ex1Ev"
         tools:targetApi="31">
         <activity
-            android:name=".Pantalla3"
+            android:name=".P3_Lugar_Elegido"
             android:exported="false" />
         <activity
-            android:name=".Pantalla2"
+            android:name=".P2_Principal"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".P1_inicio"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
